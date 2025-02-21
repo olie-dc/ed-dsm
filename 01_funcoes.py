@@ -8,7 +8,7 @@ def imc(peso, altura):
 
 print("O IMC de uma pessoa com 1,74m de altura e 81kg é", imc(81, 1.74))
 
-#--------------------------------------------------------
+#---------------------------------------------------
 
 from math import pi
 
